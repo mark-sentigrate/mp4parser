@@ -16,7 +16,7 @@ dependencies {
 ```
 repositories {
     maven {
-        url = "https://github.com/mark-sentigrate/mp4parser/blob/master/.m2/repository"
+        url = "https://raw.githubusercontent.com/mark-sentigrate/mp4parser/master/.m2"
 
         content {
             includeGroup("org.mp4parser")
