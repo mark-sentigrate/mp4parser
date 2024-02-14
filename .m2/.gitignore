@@ -1,0 +1,5 @@
+copy_reference_file.log
+settings-docker.xml
+repository
+
+!org/**/*.jar

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mp4parser</groupId>
+  <artifactId>mp4parser-project</artifactId>
+  <versioning>
+    <versions>
+      <version>9.9.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20240214142821</lastUpdated>
+  </versioning>
+</metadata>
